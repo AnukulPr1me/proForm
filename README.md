@@ -45,3 +45,8 @@ Follow these steps to set up the project on your machine.
 ```bash
 git clone https://github.com/anukulpr1me/proForm.git
 cd proForm
+cd client
+npm install
+npm start
+
+###
